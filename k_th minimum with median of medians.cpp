@@ -7,7 +7,6 @@ typedef std::vector <LL> VLL;
 
 
 #define REP(i,a,b) for(int i=a; i<=b; ++i)
-#define FOR(i,a,b,skok) for(int i=a; i<=b; i+=skok)
 
 
 
@@ -19,7 +18,6 @@ const LL INF = (LL)1000000099 * 1000000099;
 // Assumption 1: 10^6 >= n >= 1
 // Assumption 2: k in {1..n}
 // Assumption 3: |A[i]| <= 10^18 for i in {0..n-1}
-// Assumption 4: 
 
 // Sources:
 // http://smurf.mimuw.edu.pl/node/327

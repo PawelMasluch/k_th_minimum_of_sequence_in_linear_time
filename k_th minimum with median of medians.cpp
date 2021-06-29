@@ -21,6 +21,7 @@ const LL INF = (LL)1000000099 * 1000000099;
 
 // Sources:
 // http://smurf.mimuw.edu.pl/node/327
+// http://wazniak.mimuw.edu.pl/index.php?title=Algorytmy_i_struktury_danych/Selekcja
 // https://pl.wikipedia.org/wiki/Algorytm_magicznych_pi%C4%85tek
 // https://en.wikipedia.org/wiki/Median_of_medians
 LL k_th_minimum(VLL &A, int k){
